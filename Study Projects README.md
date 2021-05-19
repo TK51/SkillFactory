@@ -1,5 +1,5 @@
 # SkillFactory - Specification: System Analyst. Study Projects Hub
-Below the main ingredients of the homework done are enlisted including the instruments, methods and technologies used.
+Below the main ingredients of the homework done are enlisted including the instruments, methods and technologies used withing the learning course.
   1.
   2.
   3.
