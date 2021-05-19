@@ -1,4 +1,5 @@
 # SkillFactory - Specification: System Analyst. Study Projects Hub
+Below the main ingredients of the homeworks done are enlisted incuding the instruments, methods and technologies used.
   1.
   2.
   3.
